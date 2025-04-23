@@ -12,3 +12,22 @@ body{
     text-align: center;
     margin-bottom: 30px;
 }
+
+#searchInput{
+    width: 300px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+.text-box{
+    background-color: blanchedalmond;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+}
+
+.highlight{
+    background-color: yellow;
+    font-weight: bold;
+}
